@@ -1,4 +1,3 @@
-# app/adapters/api/schemas.py
 from pydantic import BaseModel, field_validator
 
 from core.domain.aggregates import InsurancePolicy
