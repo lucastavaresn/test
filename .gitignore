@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyd
+*.egg-info/
+.python-version
+env/
+venv/
+*.log
+
+# Package Managers
+pip-wheel-metadata/
+build/
+dist/
+*.tar.gz
+*.whl
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Operating System
+.env
+
+# Docker (if you are using Docker)
+# docker-compose.override.yml
+# .dockerenv
+
+# Other temporary files
+*.temp
+*.tmp
